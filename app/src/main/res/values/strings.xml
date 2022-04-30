@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iPrint</string>
+    <string name="google_maps_API_key">AIzaSyBsvjmIBPn6wa16h4IOfpNGKFpEy2HTJc4</string>
+    <string name="contact_us"><u>Contact Us</u></string>
+    <string-array name="spinner_PaperSize">
+        <item>-</item>
+        <item>A4</item>
+        <item>Letter</item>
+        <item>Legal</item>
+        <item>A5</item>
+    </string-array>
+    <string-array name="spinner_Layout">
+        <item>-</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="spinner_Color">
+        <item>-</item>
+        <item>Color</item>
+        <item>"Black and White</item>
+        <item>Grayscale</item>
+    </string-array>
+</resources>
